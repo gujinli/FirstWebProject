@@ -1,0 +1,35 @@
+server:
+  port: 7777
+
+# 数据库连接配置
+spring:
+  security:
+    user:
+      name: koifish
+      password: 123
+  datasource:
+    url: jdbc:mysql://localhost:3306/koifish_blog?characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: password
+    driver-class-name: com.mysql.cj.jdbc.Driver
+#    涉及文件删除用到的配置
+  servlet:
+    multipart:
+      max-file-size: 2MB
+      max-request-size: 5MB
+mybatis-plus:
+  configuration:
+  # 日志
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+#    配置逻辑删除字段，字段名delFlag, id-type是主键自增
+    db-config:
+      logic-delete-field: delFlag
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+      id-type: auto
+
+logging:
+  level:
+    org:
+      springframework: DEBUG

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/jinli-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jinli-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jinli-blog/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jinli-blog/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jinli-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jinli-framework/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/koifish-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/koifish-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/koifish-blog/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/koifish-blog/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/koifish-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/koifish-framework/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
