@@ -1,0 +1,4 @@
+com\koifish\domain\entity\Article.class
+com\koifish\service\ArticleService.class
+com\koifish\mapper\ArticleMapper.class
+com\koifish\service\impl\ArticleServiceImpl.class

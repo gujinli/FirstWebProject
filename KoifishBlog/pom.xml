@@ -71,7 +71,7 @@
                 <version>3.0.0</version>
             </dependency>
         </dependencies>
-
+<!--java 8-->
 <!--        <dependencies>-->
 <!--            &lt;!&ndash; SpringBoot的依赖配置&ndash;&gt;-->
 <!--            <dependency>-->
